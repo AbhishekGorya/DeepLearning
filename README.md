@@ -5,4 +5,4 @@ This repo serves as my personal learning log and a practical reference for imple
 
 📂 Repository Structure
 
-Each folder or notebook covers a DL topics, including theory, intuition, and code implementation.
+Each folder or notebook covers a DL topics, including theory, intuition, and code implementation. 
